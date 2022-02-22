@@ -1,6 +1,6 @@
 //Global Arrays
 var letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
-var easyWords = ["hello","tree","taco","cat", "cart", "tone","flew","grow","small","plant","harm","time","rose","dogs","happy","word","star","sign","pipes","pike","error","basic","down","bird","guess","board","flag","doors","blue","green","tried","play","over","John"]
+var easyWords = ["hello","tree","taco","cat", "cart", "tone","flew","grow","small","plant","harm","time","rose","dogs","happy","word","star","sign","pipes","pike","error","basic","down","bird","guess","board","flag","doors","blue","green","tried","play","over","john","jimmy"]
 
 var mediumWords = ["unicorn","pancake","creative","graft","shrouded","eroded","silently","flowers","thyme","excuse","family","polearm","debates","feature","structured","project","fictitious","earbuds","telephone","benefit","remains","beginner","medium","jacket","curtain","details","realize","purple","orange","reality","rainbow","caution","bicycle"]
 
