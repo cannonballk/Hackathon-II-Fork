@@ -1,6 +1,6 @@
 //Global Arrays
 var letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
-var easyWords = ["hello","tree","taco","cat", "cart", "tone","flew","grow","small","plant","harm","time","rose","dogs","happy","word","star","sign","pipes","pike","error","basic","down","bird","guess","board","flag","doors","blue","green","tried","play","over","John"]
+var easyWords = ["hello","tree","taco","cat", "cart", "tone","flew","grow","small","plant","harm","time","rose","dogs","happy","word","star","sign","pipes","pike","error","basic","down","bird","guess","board","flag","doors","blue","green","tried","play","over","john","jimmy"]
 
 var mediumWords = ["unicorn","pancake","creative","graft","shrouded","eroded","silently","flowers","thyme","excuse","family","polearm","debates","feature","structured","project","fictitious","earbuds","telephone","benefit","remains","beginner","medium","jacket","curtain","details","realize","purple","orange","reality","rainbow","caution","bicycle"]
 
@@ -57,10 +57,10 @@ function show() {
     var randB = int(random(0, numPos));
     var randC = int(random(0, letters.length - 1));
     var randD = int(random(0, numPos));
-    r = random(255);
-    g = random(100, 200);
-    b = random(100);
-    a = random(200, 255);
+    // r = random(255);
+    // g = random(100, 200);
+    // b = random(100);
+    // a = random(200, 255);
     fill(0, 280, 0, 255);
     textSize(20);
     textFont('Courier New');
