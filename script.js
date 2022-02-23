@@ -57,10 +57,10 @@ function show() {
     var randB = int(random(0, numPos));
     var randC = int(random(0, letters.length - 1));
     var randD = int(random(0, numPos));
-    r = random(255);
-    g = random(100, 200);
-    b = random(100);
-    a = random(200, 255);
+    // r = random(255);
+    // g = random(100, 200);
+    // b = random(100);
+    // a = random(200, 255);
     fill(0, 280, 0, 255);
     textSize(20);
     textFont('Courier New');
